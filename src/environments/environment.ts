@@ -4,6 +4,15 @@
 
 export const environment = {
   production: false
+  ,
+  firebaseConfig : {
+    apiKey: "AIzaSyChf-lwLlMOqdRDi8ueYGBEj2Iy5PB5yIQ",
+    authDomain: "myvehicledb.firebaseapp.com",
+    databaseURL: "https://myvehicledb.firebaseio.com",
+    projectId: "myvehicledb",
+    storageBucket: "myvehicledb.appspot.com",
+    messagingSenderId: "228357599580"
+  }
 };
 
 /*
